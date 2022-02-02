@@ -26,3 +26,5 @@ sink()
 bookdown::render_book(input         = "temp.Rmd", 
                       output_format = "word_document",
                       output_file   = "OneOnOneNL.docx")
+
+file.remove("temp.Rmd")
