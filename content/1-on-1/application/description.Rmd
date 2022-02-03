@@ -9,7 +9,7 @@ weight: 1
 ---
 ```{r, child="../../snippets/application/app_description_presentations.md"}
 ```
-Deze toetsvorm is dan ook zeer geschikt voor afname op individueel niveau. 
+Deze toetsvorm is dan ook zeer geschikt voor afname op individueel niveau.
 
 ```{r, child="../../snippets/application/app_description_distance.md"}
 ```
