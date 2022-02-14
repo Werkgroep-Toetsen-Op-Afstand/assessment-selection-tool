@@ -16,7 +16,7 @@ Afhankelijk van de inzet van **formatieve** of **summatieve** toetsing zijn er v
 
 Keuze van het toetssysteem: gebruik bij voorkeur hetzelfde systeem als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
 
-Ontwerpen van vragen of didactisch leermateriaal. Het advies is om dit ruim voor aanvang van het onderwijs te doen.
+Ontwerpen van vragen of didactisch leermateriaal: het advies is om dit ruim voor aanvang van het onderwijs te doen.
 
 Het maken van formatieve toetsen, met name de inzet van een oefentoets als didactisch leermiddel kan erg tijdrovend zijn. De inzet van studentassistenten kan hier echter een uitkomst bieden. Zie ook [dit interview](https://youtu.be/Z6Ie_ELBq40?t=1219) waarin dit ter sprake komt. 
 
