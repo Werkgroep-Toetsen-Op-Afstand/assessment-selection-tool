@@ -33,7 +33,7 @@ Online proctoring biedt hier een uitkomst, maar de effectiviteit hangt sterk af 
 *	Opslag en controle achteraf met proctoring software ([SURF whitepaper](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand) §1.4)
 *	Geautomatiseerde reviewing ([SURF whitepaper](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand) §1.4)
 
-Afhankelijk van het belang van de toets moet een afweging gemaakt worden welke vorm van online proctoring ingezet moeten worden. Informeer binnen je eigen instelling welke voorzieningen beschikbaar zijn en wat het beleid is omtrent de inzet van online proctoring.
+Afhankelijk van het belang van de toets moet een afweging gemaakt worden welke vorm van online proctoring ingezet moet worden. Informeer binnen je eigen instelling welke voorzieningen beschikbaar zijn en wat het beleid is omtrent de inzet van online proctoring.
 
 ### Voor- en nadelen
 
