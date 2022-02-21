@@ -26,9 +26,9 @@ De afname van een formatieve toets hoeft zich niet te beperken tot een specifiek
 
 ### Na afloop
 
-Om een optimaal leereffect te bevorderen is het relevant om studenten na afloop van de formatieve toets toegang te geven tot de resultaten en model antwoorden.
+Om een optimaal leereffect te bevorderen is het relevant om studenten na afloop van de formatieve toets toegang te geven tot de resultaten en modelantwoorden.
 
-Voor de docent kunnen bieden de resultaten inzicht in waar de kennishiaten zich bevinden. Deze inzichten kunnen vervolgens tijdens de lopende cursus gebruikt worden om het onderwijs te sturen.
+Voor de docent bieden de resultaten inzicht in waar de kennishiaten zich bevinden. Deze inzichten kunnen vervolgens tijdens de lopende cursus gebruikt worden om het onderwijs te sturen.
 
 ### Aandachtspunten
 
@@ -44,15 +44,15 @@ Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negat
 
 ### Voor aanvang
 
-Het opstellen van je tentamenvagen doen je bij voorkeur door gebruik te maken van een persoonlijke of gedeelde itembank, zodat je later vragen kunt hergebruiken.
+Het opstellen van je tentamenvragen doe je bij voorkeur door gebruik te maken van een persoonlijke of gedeelde itembank, zodat je later vragen kunt hergebruiken.
 
-Afhankelijk van de inrichting van het toetsprocess binnen je instelling worden sommige taken zoals het plannen van de afname, het toevoegen van studenten aan de afname en het informeren van studenten in meer of mindere mate voor je gedaan. 
+Afhankelijk van de inrichting van het toetsproces binnen je instelling worden sommige taken zoals het plannen van de afname, het toevoegen van studenten aan de afname en het informeren van studenten in meer of mindere mate voor je gedaan. 
 
-Communiceer duidelijk en goed over de inzet van online proctoringmethode. Niet alle studenten hebben thuis een geschikte ruimte of hebben de beschikking tot de benodigde apparatuur. Geef vroegtijdig aan wat je van de studenten verwacht, wat ze nodig hebben, op welke manier ze ondersteuning kunnen krijgen vanuit de instelling (bijvoorbeeld leenapparatuur) en hoe ze voorafgaand aan de toetsafname kunnen oefenen.
+Communiceer duidelijk en goed over de inzet van een online proctoringmethode. Niet alle studenten hebben thuis een geschikte ruimte of beschikken over de benodigde apparatuur. Geef vroegtijdig aan wat je van de studenten verwacht, wat ze nodig hebben, op welke manier ze ondersteuning kunnen krijgen vanuit de instelling (bijvoorbeeld leenapparatuur) en hoe ze voorafgaand aan de toetsafname kunnen oefenen.
 
 ### Tijdens
 
-Afhankelijk van de gekozen proctoringmethode kan het zijn dat je als docent virtueel aanwezig bent in de conferencing software, live meekijkt met de beelden of enkel standby bent. Bij sommige instellingen hebben de docenten expliciet geen rol in het meekijken met de beelden. 
+Afhankelijk van de gekozen proctoringmethode kan het zijn dat je als docent virtueel aanwezig bent in de conferencing software, live meekijkt met de beelden of enkel standby bent. Bij sommige instellingen hebben de docenten expliciet geen rol in het meekijken met de beelden.
 
 ### Na afloop
 
@@ -66,7 +66,7 @@ De verwerking van de toetsresultaten verloopt verder analoog aan het digitaal to
 
 Niet alle studenten hebben een thuissituatie die geschikt is voor het maken van toetsen. Zeker bij toetsen met proctoring kan dit een probleem vormen. Wijs de studenten op een eventuele alternatieve afnamelocatie of ondersteuningsmogelijkheden (zoals het lenen van een laptop en/of webcam). 
 
-Biedt bij een toets met proctoring een oefentoets aan waarmee de student met het systeem kan oefenen. Dit is ook van belang voor studenten die door een visuele of auditieve beperking gebruik maken van spraak- of voorleessoftware. 
+Bied bij een toets met proctoring een oefentoets aan waarmee de student met het systeem kan oefenen. Dit is ook van belang voor studenten die door een visuele of auditieve beperking gebruikmaken van spraak- of voorleessoftware. 
 
 Voor studenten die grote bezwaren hebben tegen de inzet van online proctoring bieden veel instellingen de mogelijkheid om de toets toch op de campus te maken.
 
