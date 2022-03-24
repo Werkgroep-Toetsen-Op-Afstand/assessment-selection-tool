@@ -8,16 +8,16 @@ instructions: false
 weight: 2
 ---
 
-Online presenteren vereist van studenten soms een andere vaardigheid. Naast het kunnen omgaan met de video conferencing software zal in sommige gevallen ook de presentatie zelf aangepast moeten worden om digitaal te kunnen aanbieden. Een poster presentatie is fysiek toch een andere activiteit dan online.
+Online presenteren vereist van studenten soms een andere vaardigheid. Naast het kunnen omgaan met de videoconferencing software zal in sommige gevallen ook de presentatie zelf aangepast moeten worden om deze digitaal te kunnen aanbieden. Een posterpresentatie is fysiek toch een andere activiteit dan online.
 
 ## Voordelen
 
 *	Kan synchroon of asynchroon afgenomen worden
-*	Plaats onafhankelijk
+*	Plaatsonafhankelijk
 *	Kan authentieke beroepssituatie emuleren
 
 ## Nadelen
 
 *	Beperkte betrouwbaarheid bij één enkele beoordelaar
 *	Beperkte technische risico's
-*	Non-verbale presentatie vaardigheden slechter te beoordelen.
+*	Non-verbale presentatievaardigheden slechter te beoordelen
