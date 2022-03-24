@@ -71,7 +71,7 @@ Als je een bestaande schriftelijke toets met open vragen hebt, dan kun je het oo
 
 ### Afsluiting
 
-*	Als je met meerdere beoordelaars werkt en direct feedback wilt geven, kun je de student vragen om even uit de videovergadering te gaan of hem/haar in een breakout room zetten. Na het bespreken van de bevindingen kan je de student weer terug laten komen. 
+*	Als je met meerdere beoordelaars werkt en direct feedback wilt geven, kun je de student vragen om even uit de videovergadering te gaan of hem/haar in een breakout room zetten. Na het bespreken van de bevindingen kun je de student weer terug laten komen. 
 
 ## Na afloop
 
