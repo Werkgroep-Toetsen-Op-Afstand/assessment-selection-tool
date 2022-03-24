@@ -25,4 +25,4 @@ Ter afronding kan ook het assessmentgesprek online plaatsvinden. Dit kan in somm
 ## Aandachtspunten 
 
 *	Zorg dat het portfolio, de toetsing en de onderwijsactiviteiten goed op elkaar zijn afgestemd. Studenten voelen zich dan verantwoordelijker voor hun portfolio. 
-*	Voor studenten met een studiebeperking zoals add of adhd is het extra belangrijk duidelijk te communiceren over de verwachtingen en de inlevermomenten. Het is voor deze doelgroep raadzaam om met tussenproducten te werken om zo het werk overzichtelijk te houden. 
+*	Voor studenten met een studiebeperking zoals ADD of ADHD is het extra belangrijk duidelijk te communiceren over de verwachtingen en de inlevermomenten. Het is voor deze doelgroep raadzaam om met tussenproducten te werken om zo het werk overzichtelijk te houden. 
