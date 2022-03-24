@@ -16,7 +16,7 @@ weight: 3
 
 **Opname** Een oplossing om de betrouwbaarheid van de beoordeling te vergroten is het opnemen van de presentatie tijdens de uitvoering. Bij twijfel over de beoordeling kan deze dan teruggekeken worden. Informeer de student vooraf over een eventuele opname. Het verwerken, opslaan en verwijderen van opnames moet plaatsvinden binnen de wettelijke kaders. Informeer bij je instelling wat hiervoor de regels zijn. 
 
-**Meerdere beoordelaars** Om de betrouwbaarheid van de beoordeling nog meer te vergroten kunnen meerdere beoordelaars ingezet worden bij een online presentatie. Bij formatieve toetsen kunnen hiervoor medestudenten ingezet worden. Beoordelaars zouden de video opname ook achteraf kunnen beoordelen.
+**Meerdere beoordelaars** Om de betrouwbaarheid van de beoordeling nog meer te vergroten kunnen meerdere beoordelaars ingezet worden bij een online presentatie. Bij formatieve toetsen kunnen hiervoor medestudenten ingezet worden. Beoordelaars zouden de video-opname ook achteraf kunnen beoordelen.
 
 ## Tijdens   
 
@@ -26,7 +26,7 @@ weight: 3
 *	Zorg voor een rustige omgeving waarin je niet gestoord wordt.   
 *	Test de apparatuur voorafgaand aan de toets, gebruik zo nodig een headset. 
 *	Zorg dat je de benodigde documenten (rubric, beoordelingsformulier e.d.) geprint of op een tweede scherm bij de hand hebt.  
-*	Log enkele minuten voorafgaand aan de toets in op de video vergadering.  
+*	Log enkele minuten voorafgaand aan de toets in op de videovergadering.  
 
 ### Start
 
@@ -41,7 +41,7 @@ weight: 3
 
 ### Afsluiting
 
-*	Als je met meerdere beoordelaars werkt en direct feedback wil geven, kun je de student vragen om even de videovergadering te verlaten of ze in een breakout room te zetten. Na het bespreken van de bevindingen kan je de student weer terug laten komen.
+*	Als je met meerdere beoordelaars werkt en direct feedback wilt geven, kun je de student vragen om even de videovergadering te verlaten of hem/haar in een breakout room zetten. Na het bespreken van de bevindingen kun je de student weer terug laten komen.
 
 ## Na afloop
 
