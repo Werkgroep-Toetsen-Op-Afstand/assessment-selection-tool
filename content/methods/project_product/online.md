@@ -22,5 +22,5 @@ Studenten leveren het werk vaak digitaal via een leer management systeem (LMS) i
 
 ## Voor- en nadelen
 
-+ Het toetsen van projecten en producten op afstand is grotendeels niet anders dan hoe de beoordeling via campus onderwijs zou plaatsvinden.
++ Het toetsen van projecten en producten op afstand is grotendeels niet anders dan hoe de beoordeling via campusonderwijs zou plaatsvinden.
 - Voor de beoordeling van fysieke eindproducten kan een digitale beoordeling soms een minder goed beeld geven. Zo hangt het af van hoe goed de student in staat is om alle relevante details in beeld te brengen.
