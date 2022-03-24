@@ -8,19 +8,19 @@ instructions: false
 weight: 3
 ---
 
-De online aanpak van de verschillende portfolio toepassingen verschillen nauwelijks van de reguliere aanpak.
+De online aanpak van de verschillende portfoliotoepassingen verschillen nauwelijks van de reguliere aanpak.
 
 ## Vooraf
 
-Uiteraard dienen de verschillende competenties helder geformuleerd en digitaal beschikbaar gesteld worden. De competenties kunnen in sommige gevallen al in de gespecialiseerde portfolio software worden opgenomen. 
+Uiteraard dienen de verschillende competenties helder geformuleerd en digitaal beschikbaar gesteld te worden. De competenties kunnen in sommige gevallen al in de gespecialiseerde portfoliosoftware worden opgenomen. 
 
 ## Tijdens
 
-Gedurende het portfolio traject kunnen verschillende online bijeenkomsten worden opgezet. Hier valt te denken aan een online aftrap, applicatie uitleg of coaching.
+Gedurende het portfoliotraject kunnen verschillende online bijeenkomsten worden opgezet. Hier valt te denken aan een online aftrap, applicatie-uitleg of coaching.
 
 ## Na afloop 
 
-Ter afronding kan ook het assessment gesprek online plaatsvinden. Dit kan in sommige gevallen gecombineerd worden met een online presentatie waarin de kandidaat de de verzamelde bewijsstukken in het portfolio toelicht.
+Ter afronding kan ook het assessmentgesprek online plaatsvinden. Dit kan in sommige gevallen gecombineerd worden met een online presentatie waarin de kandidaat de verzamelde bewijsstukken in het portfolio toelicht.
 
 ## Aandachtspunten 
 
