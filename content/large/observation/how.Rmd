@@ -8,7 +8,7 @@ instructions: false
 weight: 2
 ---
 
-Verken of er mogelijkheden zijn voor voor plaats- en tijdonafhankelijk toetsen en welke voordelen dit heeft.
+Verken of er mogelijkheden zijn voor plaats- en tijdonafhankelijk toetsen en welke voordelen dit heeft.
 
 ```{r, child="../../snippets/observation/obs_how_distance.md"}
 ```
