@@ -12,6 +12,6 @@ Bij groepen van meer dan 100 studenten is een toets met alleen open vragen vaak 
 ```{r, child="../../snippets/application/app_how_itembanks.md"}
 ```
 
-Het beoordelen van presentaties, projecten of producenten kan veel tijd kosten. Daarom lijkt deze vorm wellicht niet voor de hand liggend voor deze schaal.
+Het beoordelen van presentaties, projecten of producten kan veel tijd kosten. Daarom lijkt deze vorm wellicht niet voor de hand liggend voor deze schaal.
 ```{r, child="../../snippets/application/app_how_itembanks.md"}
 ```
