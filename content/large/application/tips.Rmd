@@ -20,5 +20,5 @@ weight: 4
 ```{r, child="../../snippets/knowledge/know_tips_environment.md"}
 ```
 
-...{r, child="../../snippets/knowledge/know_methods_ID.md
+...{r, child="../../snippets/knowledge/know_methods_ID.md}
 ...
