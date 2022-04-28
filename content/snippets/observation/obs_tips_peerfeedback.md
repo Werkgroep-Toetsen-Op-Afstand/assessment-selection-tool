@@ -1,1 +1,1 @@
-* Bij formatieve evaluatie kan gebruik worden gemaakt van peerfeedback. 
+* Bij formatieve evaluatie kan gebruik worden gemaakt van peerfeedback. Zie [deze publicatie van Inholland voor meer informatie over het organiseren van peerfeedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf).
