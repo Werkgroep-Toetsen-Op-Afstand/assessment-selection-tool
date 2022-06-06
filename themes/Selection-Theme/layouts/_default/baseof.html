@@ -5,6 +5,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="{{ .Site.Params.Author }}">
+  
+  
+  {{ $sass := resources.Get "/styles/app.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  
   <link rel="stylesheet" href="{{ .Site.BaseURL }}styles/app.css">
   <title>{{ .Site.Title }}</title>
   <meta name="description" content="{{ .Site.Params.Description }}">
