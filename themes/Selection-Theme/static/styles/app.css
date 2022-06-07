@@ -192,7 +192,7 @@ main {
   min-height: 800px;
 }
 .main__background {
-  background-size: cover;
+  background-size: cover !important;
   background-position: center;
 }
 
